@@ -1,2 +1,2 @@
 # Physics
-Computational assignments in various physics courses
+Computational assignments from various physics courses ranging from mechanical physics to quantum physics
